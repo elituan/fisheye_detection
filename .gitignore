@@ -4,3 +4,11 @@ dataset/synthetic_visdrone/
 dataset/fisheye_test
 dataset/synthetic_visdrone/train.json
 dataset/visdrone/train.json
+
+dataset/6AM_part1_phrase1
+dataset/6AM_part2_phrase1
+dataset/8PM_part1_phrase1
+dataset/8PM_part2_phrase1
+dataset/fisheye_test/images
+
+fisheye_streaming/imgs
