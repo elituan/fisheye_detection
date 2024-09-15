@@ -21,3 +21,4 @@ infer/YoloV9/runs/detect
 
 *.json
 *.jpg
+*.pt
