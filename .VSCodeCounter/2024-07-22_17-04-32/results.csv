@@ -1,0 +1,14 @@
+"filename", "language", "CSV", "pip requirements", "comment", "blank", "total"
+"/home/eli/fisheye_detection/infer/CO-DETR/requirements.txt", "pip requirements", 0, 3, 0, 1, 4
+"/home/eli/fisheye_detection/infer/CO-DETR/tools/dataset_converters/zhiyuan_objv2_train_names_fix.csv", "CSV", 365, 0, 0, 1, 366
+"/home/eli/fisheye_detection/infer/InternImage/autonomous_driving/openlane-v2/requirements.txt", "pip requirements", 0, 13, 0, 1, 14
+"/home/eli/fisheye_detection/infer/YoloR/requirements.txt", "pip requirements", 0, 11, 10, 6, 27
+"/home/eli/fisheye_detection/infer/YoloV9/requirements.txt", "pip requirements", 0, 19, 22, 7, 48
+"/home/eli/fisheye_detection/requirements.txt", "pip requirements", 0, 3, 0, 0, 3
+"/home/eli/fisheye_detection/train/CO-DETR/requirements.txt", "pip requirements", 0, 3, 0, 1, 4
+"/home/eli/fisheye_detection/train/CO-DETR/tools/dataset_converters/zhiyuan_objv2_train_names_fix.csv", "CSV", 365, 0, 0, 1, 366
+"/home/eli/fisheye_detection/train/InternImage/autonomous_driving/openlane-v2/requirements.txt", "pip requirements", 0, 13, 0, 1, 14
+"/home/eli/fisheye_detection/train/YoloR/requirements.txt", "pip requirements", 0, 11, 10, 6, 27
+"/home/eli/fisheye_detection/train/YoloV9/requirements.txt", "pip requirements", 0, 19, 22, 7, 48
+"/home/eli/fisheye_detection/train/YoloV9/runs/train/yolov9-e12/results.csv", "CSV", 2, 0, 0, 1, 3
+"Total", "-", 732, 95, 64, 33, 924

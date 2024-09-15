@@ -1,6 +1,6 @@
 train: [
   "../../dataset/fisheye8k/train",
-  "../../dataset/visdrone/VisDrone2019-DET-train/images",
+  # "../../dataset/visdrone/VisDrone2019-DET-train/images",
 ]
 
 val: [
