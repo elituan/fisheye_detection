@@ -10,6 +10,7 @@ dataset/6AM_part2_phrase1
 dataset/8PM_part1_phrase1
 dataset/8PM_part2_phrase1
 dataset/fisheye_test/images
+<<<<<<< HEAD
 fisheye_streaming/imgs
 
 */__pycache__*
@@ -22,3 +23,5 @@ infer/YoloV9/runs/detect
 *.json
 *.jpg
 *.pt
+
+fisheye_streaming/imgs
